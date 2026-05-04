@@ -14,6 +14,12 @@ Play different drum sounds using mouse clicks or keyboard keys.
 - Event handling using JavaScript
 
 ---
+## Live Demo
+
+- [View Live Project](https://muskan-k-soni.github.io/Drum-Kit/)
+- [View Source Code on GitHub](https://github.com/Muskan-K-Soni/Drum-Kit)
+
+---
 
 ## Technologies Used
 
